@@ -4,6 +4,8 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+dynolayer = "0.2.4"
+python-dotenv = "*"
 
 [dev-packages]
 
